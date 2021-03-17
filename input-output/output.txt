@@ -1,0 +1,16 @@
+Warning! Server is 50% full.
+Warning! Server is 80% full.
+Warning! Server is 50% full.
+Current load of the server is 263 characters.
+Current load of the server is 190 characters.
+Current load of the server is 125 characters.
+Current load of the server is 0 characters.
+	From: 0 to: 1
+	Received: 20 Read: 29
+	Lorem ipsum dolor sit amet,
+	From: 2 to: 1
+	Received: 20 Read: 33
+	enim ad minim veniam, quis nostrud
+	From: 3 to: 0
+	Received: 26 Read: 38
+	labore et dolore magna aliqua. Ut
